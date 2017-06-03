@@ -73,6 +73,7 @@ public class MainActivity extends BaseActivity {
 
     @Override
     public void initPresenter() {
+
     }
     @Override
     public void initView() {
