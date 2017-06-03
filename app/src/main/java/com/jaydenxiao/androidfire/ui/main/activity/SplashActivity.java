@@ -50,7 +50,6 @@ public class SplashActivity extends BaseActivity {
         animatorSet.addListener(new Animator.AnimatorListener() {
             @Override
             public void onAnimationStart(Animator animator) {
-
             }
 
             @Override

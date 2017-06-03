@@ -1,8 +1,5 @@
 package com.google.zxing.decode;
 
-import java.util.Hashtable;
-import java.util.Vector;
-
 import android.content.Context;
 import android.graphics.Bitmap;
 
@@ -13,6 +10,9 @@ import com.google.zxing.MultiFormatReader;
 import com.google.zxing.NotFoundException;
 import com.google.zxing.Result;
 import com.google.zxing.common.HybridBinarizer;
+
+import java.util.Hashtable;
+import java.util.Vector;
 
 /**
  * 从bitmap解码

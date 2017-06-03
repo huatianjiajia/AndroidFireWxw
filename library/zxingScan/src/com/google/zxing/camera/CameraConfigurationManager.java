@@ -15,13 +15,6 @@
  */
 package com.google.zxing.camera;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Iterator;
-import java.util.List;
-
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Point;
@@ -29,6 +22,13 @@ import android.hardware.Camera;
 import android.util.Log;
 import android.view.Display;
 import android.view.WindowManager;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Iterator;
+import java.util.List;
 
 /**
  * 
